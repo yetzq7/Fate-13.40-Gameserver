@@ -1,5 +1,5 @@
 # Fate-13.40-GS
-Skiddy celestia fork pasted magma
+Skiddy celestia fork used for Fate 13.40
 
 Has AIs and bossed
 
